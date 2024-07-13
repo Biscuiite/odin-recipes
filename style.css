@@ -1,0 +1,49 @@
+/* styles.css */
+
+#main-page {
+    background-color: rgb(170,204,184);
+}
+
+#recipe-color {
+    background-color: rgb(190,214,197);
+}
+
+.title {
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    font-size: 60px;
+}
+
+.list {
+    font-family: "Audiowide", sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    color: cadetblue;
+}
+
+#image {
+    border: 2px solid rgb(101, 174, 67);
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    }
+
+.title-2 {
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
+    color: rgb(128,185,186);
+}
+
+p {
+    font-family: "Audiowide", sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    color: black
+}
+
+.list-2 {
+    font-family: "Audiowide", sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    color:black
+}
