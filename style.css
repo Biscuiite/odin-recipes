@@ -9,41 +9,83 @@
 }
 
 .title {
+    font-size: 45px;
     text-align: center;
     font-family: "Audiowide", sans-serif;
-    font-size: 60px;
+    border: solid wheat 1px;
+    border-radius: 5px;
+    padding: 8px;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 400px;
+    height: auto;
+    background-color: rgb(170, 197, 178);
 }
 
 .list {
+    display: block;
+    margin: 0 auto;
+}
+.list button {
     font-family: "Audiowide", sans-serif;
     font-style: normal;
     font-weight: lighter;
-    color: cadetblue;
+    font-size: 20px;
+    background-color: cadetblue;
+}
+
+button {
+    margin: 2px;
+    border: solid wheat 1px;
+    border-radius: 5px;
 }
 
 #image {
     border: 2px solid rgb(101, 174, 67);
     border-radius: 5px;
     margin: auto;
-    display: flex;
+    display: block;
     }
 
 .title-2 {
     font-family: "Audiowide", sans-serif;
     font-size: 30px;
     color: rgb(128,185,186);
+    text-align: center;
 }
 
 p {
     font-family: "Audiowide", sans-serif;
     font-style: normal;
     font-weight: lighter;
-    color: black
+    color: black;
+    border: solid wheat 1px;
+    border-radius: 5px;
+    background-color: rgb(225, 238, 229);
+    
 }
 
 .list-2 {
     font-family: "Audiowide", sans-serif;
     font-style: normal;
     font-weight: lighter;
-    color:black
+    color: black;
+    border: solid wheat 1px;
+    border-radius: 5px;
+    background-color: rgb(225, 238, 229);
+}
+h2 {
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    border: solid wheat 1px;
+    border-radius: 5px;
+    padding: 8px;
+    margin: auto;
+    margin-top: 8px;
+    width: 150px;
+    height: auto;
+    background-color: rgb(170, 197, 178);
+    
+    
 }
